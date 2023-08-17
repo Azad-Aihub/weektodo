@@ -51,7 +51,7 @@ export default {
       sponsors.push({
         name: "WeekToDo",
         message: this.$t('donate.splashMessage'),
-        url: "https://weektodo.me/support-us",
+        url: "https://www.azad.asia/dashang",
         img: "/icons/ko-fi.png",
       });
 
