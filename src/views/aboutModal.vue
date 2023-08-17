@@ -19,7 +19,7 @@
             </span>
             <span>
               <div class="visit-site mt-2 mb-3" style="font-size: 0.75rem;">
-                <a href="https://weektodo.me" target="_blank">{{ $t('about.site') }}</a>
+                <a href="https://todo.azad.asia" target="_blank">{{ $t('about.site') }}</a>
               </div>
             </span>
             <div class="d-flex align-self-center">
