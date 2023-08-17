@@ -1,7 +1,5 @@
 module.exports = {
-  devServer: {
-        allowedHosts: 'all',
-  },
+ devServer: { disableHostCheck: true,allowedHosts: 'all' },
   pluginOptions: {
     electronBuilder: {
       nodeIntegration: true,
