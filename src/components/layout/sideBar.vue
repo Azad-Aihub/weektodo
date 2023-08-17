@@ -70,7 +70,7 @@ export default {
       document.getElementById("config-general-tab").click();
     },
     openDonateModal: function () {
-      window.open("https://weektodo.me/support-us", "_blank");
+      window.open("https://www.azad.asia/dashang", "_blank");
     },
   },
   watch: {
