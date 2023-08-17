@@ -5,7 +5,7 @@ export default {
                 name: vue.$t('donate.supportUs'),
                 ico: "bi-heart-fill", color: "#d94242",
                 linktype: "external",
-                link: "https://weektodo.me/support-us"
+                link: "https://www.azad.asia/dashang"
             },
             {name: vue.$t('donate.shareWithFriends'), ico: "bi-share-fill", color: "#4297d9", linktype: "tagId", link: 'shareTab'},
             {name: vue.$t('donate.rate'), ico: "bi-star-half", color: "#d0b114", linktype: "external", link: 'https://alternativeto.net/software/weektodo/about/'},
