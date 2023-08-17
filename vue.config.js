@@ -1,4 +1,7 @@
 module.exports = {
+  devServer: {
+        allowedHosts: 'all',
+  },
   pluginOptions: {
     electronBuilder: {
       nodeIntegration: true,
