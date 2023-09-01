@@ -1,5 +1,5 @@
 module.exports = {
-  devServer: { disableHostCheck: true, allowedHosts: ['todo.azad.asia','todo.orpheus.love'] },
+  devServer: { disableHostCheck: true },
   pluginOptions: {
     electronBuilder: {
       nodeIntegration: true,
